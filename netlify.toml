@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/feed/*"
-  to = "https://51.15.226.226:3333/api/movies?limit=10&order=title&sort=ASC"
-  status = 200
-  force = true
