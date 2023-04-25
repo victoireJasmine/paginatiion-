@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/feed/*"
+  to = "http://51.15.226.226:3333/api/"
+  status = 200
+  force = true
